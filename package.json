@@ -1,0 +1,19 @@
+{
+  "name": "progress-meter-using-svg-masking-react-motion-forked",
+  "description": "I built this for a client project. In the actual app it's hooked up to a form where the user needs to select a certain number of itinerary options so they can see their progress towards the goal.",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-motion": "0.5.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
